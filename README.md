@@ -1,6 +1,6 @@
 # Pixel gun 3d
 
-[![logo](https://github.com/jeffplays2005/pg3d/tree/main/media/logo.png)]
+![logo](https://github.com/jeffplays2005/pg3d/blob/main/media/logo.png?raw=true)
 
 A pixel gun 3d encyclopedia module
 
