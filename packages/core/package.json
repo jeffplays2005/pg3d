@@ -1,0 +1,24 @@
+{
+  "name": "@pg3d/core",
+  "version": "1.0.0",
+  "description": "Package for comprehensive Pixel Gun 3D data. Includes weapons, gadgets, armours, pets, maps, music and many more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffplays2005/pg3d.git"
+  },
+  "keywords": [
+    "pg3d",
+    "pixelgun3d",
+    "wiki"
+  ],
+  "author": "Jeffplays2005",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffplays2005/pg3d/issues"
+  },
+  "homepage": "https://github.com/jeffplays2005/pg3d#readme"
+}

@@ -1,17 +1,19 @@
 # Pixel gun 3d
 
+[![logo](https://github.com/jeffplays2005/pg3d/tree/main/media/logo.png)]
+
 A pixel gun 3d encyclopedia module
 
-# Info
-## Why I created this module
+## Info
+### Why I created this module
 I've always been into video games when I was younger and wished to somewhat contribute to the development. I've created this module and attempted to finish it back in 2020 although after multiple changes and updates in the game and manually creating .json files, I halted the development and decided to work on other projects. I am coming back to develop this as a side hobby for fun.
-## Want to help?
-Help is always needed, please join the discord server and let me know! Help is always appreciated, whether in providing updated information or contributing to this module by providing data scrapers(or you could make the json files manually...). I'm still out looking for page scrapers that scrape the information on the fandom page(haven't been able to create one). 
+### Want to help?
+Help is always needed, please join the discord server and let me know! Help is always appreciated, whether in providing updated information or contributing to this module by providing data scrapers(or you could make the json files manually...). I'm still out looking for page scrapers that scrape the information on the fandom page(haven't been able to create one).
 
-# Credits
+## Credits
 [Leafy and his team of contributors](https://pixelgun.fandom.com/wiki/Pixel_Gun_Wiki)
 
-# License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2022 Jeffplays2005
